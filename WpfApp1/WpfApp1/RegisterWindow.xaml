@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp1.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="RegisterWindow" Height="260" Width="380"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBox Name="UsernameBox" HorizontalAlignment="Left" Height="16" Margin="132,40,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="187"/>
+        <PasswordBox Name="PasswordBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="186" Margin="133,133,0,0"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="72,133,0,0" VerticalAlignment="Top" Width="56" RenderTransformOrigin="0.823,0.504"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="71,43,0,0" VerticalAlignment="Top" Width="61"/>
+        <Button Content="Sign In" HorizontalAlignment="Left" Margin="184,195,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.222,0.539" Width="60" Click="SignIn"/>
+        <Button Content="Register" HorizontalAlignment="Left" Margin="249,195,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="3.443,0.613" Click="Register"/>
+        <Label Content="Firstname" HorizontalAlignment="Left" Margin="71,72,0,0" VerticalAlignment="Top" Width="61"/>
+        <TextBox Name="FirstnameBox" HorizontalAlignment="Left" Height="16" Margin="132,71,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="187"/>
+        <Label Content="Lastname" HorizontalAlignment="Left" Margin="70,102,0,0" VerticalAlignment="Top" Width="61"/>
+        <TextBox Name="LastnameBox"  HorizontalAlignment="Left" Height="16" Margin="132,102,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="187"/>
+        <Label Content="Confirm password" HorizontalAlignment="Left" Margin="33,167,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.823,0.504"/>
+        <PasswordBox Name="ConfirmPasswordBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="186" Margin="133,164,0,0"/>
+        <Label Name="FeedbackLabel"  Content=""   HorizontalAlignment="Center" Height="25" Margin="0,10,0,0" VerticalAlignment="Top" Width="360" Foreground="Red" FontSize="10"/>
+
+    </Grid>
+</Window>

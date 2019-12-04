@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\User\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.deps.json
+C:\Users\User\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.runtimeconfig.json
+C:\Users\User\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.runtimeconfig.dev.json
+C:\Users\User\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.dll
+C:\Users\User\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.pdb
+C:\Users\User\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.AssemblyInfo.cs
+C:\Users\User\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.dll
+C:\Users\User\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.pdb
+C:\Users\User\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.csprojAssemblyReference.cache
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.deps.json
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.runtimeconfig.json
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.runtimeconfig.dev.json
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.dll
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\bin\Debug\netcoreapp2.2\NotesApi.pdb
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.csprojAssemblyReference.cache
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.RazorAssemblyInfo.cache
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.RazorAssemblyInfo.cs
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.AssemblyInfoInputs.cache
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.AssemblyInfo.cs
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.RazorTargetAssemblyInfo.cache
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.dll
+C:\Users\abyla\OneDrive\Рабочий стол\Repos\NotesApi\NotesApi\obj\Debug\netcoreapp2.2\NotesApi.pdb

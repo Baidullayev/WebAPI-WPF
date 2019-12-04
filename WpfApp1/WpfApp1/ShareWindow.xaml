@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp1.ShareWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="ShareWindow" Height="169" Width="320"
+        Activated="App_Activated" WindowStartupLocation="CenterScreen" >
+    <Grid Height="142">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="11*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock  Name="HeaderBlock" HorizontalAlignment="Left" Height="55" Margin="90,10,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="211" Grid.ColumnSpan="2"/>
+        <Label Content="Note header" HorizontalAlignment="Left" Margin="6,5,0,0" VerticalAlignment="Top" Width="79"/>
+        <ComboBox Name="UsernameBox" HorizontalAlignment="Left" Margin="127,70,0,0" VerticalAlignment="Top" Width="174" Grid.ColumnSpan="2">
+            <ComboBox Height="4" Width="6"/>
+        </ComboBox>
+        <Label Content="Recipient username" HorizontalAlignment="Left" Margin="5,71,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Send" HorizontalAlignment="Left" Margin="214,102,0,0" VerticalAlignment="Top" Width="87" Height="19" Grid.ColumnSpan="2" Click="button_Click"/>
+
+    </Grid>
+</Window>
