@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="MahApps.Metro" Version="2.0.0-alpha0490" />
     <PackageReference Include="MahApps.Metro.Resources" Version="0.6.1" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="RestSharp" Version="106.6.10" />
     <PackageReference Include="Spire.PDF" Version="5.9.16" />
   </ItemGroup>
